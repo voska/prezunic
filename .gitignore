@@ -1,0 +1,10 @@
+/frescatto
+bin/
+dist/
+*.exe
+.DS_Store
+go.work
+go.work.sum
+
+# internal working docs (design/plan) — not for the public repo
+docs/superpowers/
