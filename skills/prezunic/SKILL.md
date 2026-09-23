@@ -56,6 +56,10 @@ prezunic cart clear
 
 **Search** takes Portuguese terms. **Cart** never needs a `--seller`.
 
+Every result carries both `sku` and `productId`. Commands take the `sku` —
+the two are separate sequences and the same number routinely appears in
+both, naming two unrelated products.
+
 ## Price comparison with Zona Sul
 
 This is the main reason Prezunic is in the fleet. Both CLIs emit the same JSON

@@ -2,7 +2,7 @@ module github.com/voska/prezunic
 
 go 1.25.0
 
-require github.com/voska/vtexkit v0.5.1
+require github.com/voska/vtexkit v0.6.0
 
 require (
 	github.com/alecthomas/kong v1.16.0 // indirect
