@@ -2,7 +2,7 @@ module github.com/voska/prezunic
 
 go 1.25.0
 
-toolchain go1.26.10
+toolchain go1.26.11
 
 require github.com/voska/vtexkit v0.6.0
 
